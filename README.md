@@ -32,7 +32,7 @@ az login --service-principal \
 ### 2. Set Azure Subscription
 
 ```bash
-az account set --subscription efe36eab-e65c-4800-81b5-d77bd9aeb6bd
+az account set --subscription e17c0608-1fac-44d1-be1a-90e597d1c653
 ```
 
 ### 3. Configure AKS Access
